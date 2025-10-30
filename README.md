@@ -92,8 +92,7 @@ const abhay = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhayclasher&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Stats" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=abhayclasher&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=abhayclasher&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true](https://streak-stats.demolab.com/?user=abhayclasher&theme=tokyonight&hide_border=true)" alt="GitHub Stats" height="170"/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayclasher&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
