@@ -95,8 +95,6 @@ const abhay = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-[![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhayclasher&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=22b4b7&icon_color=22b4b7&text_color=c9d1d9)](https://github.com/abhayclasher)
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/api?user=abhayclasher&theme=tokyonight&hide_border=true&background=1a1b27&ring=22b4b7&fire=22b4b7&currStreakLabel=22b4b7)](https://github.com/abhayclasher)
 
