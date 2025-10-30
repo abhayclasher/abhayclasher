@@ -12,6 +12,9 @@
   <a href="mailto:abhaypro.cloud@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://www.linkedin.com/in/abhayclasher/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://www.instagram.com/abhay_clasher/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -92,12 +95,28 @@ const abhay = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhayclasher&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=abhayclasher&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  
+[![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhayclasher&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=22b4b7&icon_color=22b4b7&text_color=c9d1d9)](https://github.com/abhayclasher)
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/api?user=abhayclasher&theme=tokyonight&hide_border=true&background=1a1b27&ring=22b4b7&fire=22b4b7&currStreakLabel=22b4b7)](https://github.com/abhayclasher)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayclasher&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=22b4b7&text_color=c9d1d9)](https://github.com/abhayclasher)
+
 </div>
 
+---
+
+### 📈 Activity Overview
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayclasher&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%"/>
+
+| 📅 **Metric** | 📊 **Stats** |
+|:---:|:---:|
+| 💻 **Total Repositories** | ![Repos](https://img.shields.io/badge/dynamic/json?color=22b4b7&label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/abhayclasher&style=for-the-badge&logo=github) |
+| ⭐ **Total Stars Earned** | ![Stars](https://img.shields.io/github/stars/abhayclasher?style=for-the-badge&logo=github&color=22b4b7&label=Total%20Stars) |
+| 👥 **Followers** | ![Followers](https://img.shields.io/github/followers/abhayclasher?style=for-the-badge&logo=github&color=22b4b7&label=Followers) |
+| 🎉 **Years on GitHub** | ![Years](https://img.shields.io/badge/Since-2020-22b4b7?style=for-the-badge&logo=github) |
+
 </div>
 
 ---
@@ -167,6 +186,9 @@ const abhay = {
 <p>
   <a href="mailto:abhaypro.cloud@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abhayclasher/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/abhay_clasher/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
