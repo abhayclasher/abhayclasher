@@ -93,7 +93,7 @@ const abhay = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhayclasher&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" alt="GitHub Stats" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=abhayclasher&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="[https://streak-stats.demolab.com/?user=abhayclasher&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=abhayclasher&theme=tokyonight&hide_border=true)" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
@@ -108,21 +108,6 @@ const abhay = {
   <img src="https://github-profile-trophy.vercel.app/?username=abhayclasher&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhayclasher&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" width="100%">
-
----
-
-## 💡 Random Dev Wisdom
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
 
 ## 🎯 Current Projects
 
