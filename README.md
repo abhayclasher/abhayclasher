@@ -127,13 +127,6 @@ const abhay = {
   <img src="https://github-profile-trophy.vercel.app/?username=abhayclasher&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhayclasher&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" width="100%">
-
----
 
 ## 💡 Random Dev Wisdom
 
