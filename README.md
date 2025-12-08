@@ -31,22 +31,6 @@
   </a>
   <a href="https://github.com/abhayclasher">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
-  </a>
-  <a href="https://discord.gg/hB6Pp73zV8">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord"/>
-  </a>
-  <a href="https://www.instagram.com/abhay_clasher/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-</div>
-
----
-
-<div align="center">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
@@ -235,12 +219,29 @@
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Achievements & Trophies
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Achievements
 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhayclasher&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars,Followers" alt="GitHub Trophies"/>
+
+### 🏆 Contribution Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayclasher&theme=radical&hide_border=true&background=0D1117&ring=22b4b7&fire=22b4b7&currStreakLabel=22b4b7&sideLabels=22b4b7&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=22b4b7" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=abhayclasher&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22b4b7&icon_color=22b4b7&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" />
+
+### 📊 Contribution Heatmap
+
+<img src="https://ghchart.rshah.org/22b4b7/abhayclasher" alt="Contribution Graph" width="98%" />
+
+### 🎯 Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhayclasher&theme=radical" width="98%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhayclasher&theme=radical" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhayclasher&theme=radical" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhayclasher&theme=radical" width="32%" />
+
 </div>
 
 <div align="center">
@@ -261,31 +262,32 @@
 
 <div align="center">
 
-### 🤖 Clasher's Den
+### 📚 StudySync AI
 
-**Multipurpose Discord Bot Platform**
+**AI-Powered Learning Platform**
 
 </div>
 
-A feature-rich Discord bot with advanced moderation, entertainment, and utility commands. Includes a modern landing page with particle effects and real-time analytics.
+Transform your learning experience with AI-powered study tools. Master knowledge, one concept at a time with personalized learning experiences.
 
 **Tech Stack:**
 ```
-JavaScript • Discord.js • Node.js
-HTML/CSS • Particles.js
+React 18 • TypeScript • Vite
+TailwindCSS • Supabase • Google Gemini AI
 ```
 
 **Key Features:**
-- 🎮 Interactive games & mini-games
-- 🛡️ Advanced moderation system
-- 📊 Real-time analytics dashboard
-- 🎨 Beautiful responsive web UI
-- ⚡ High-performance architecture
+- 🤖 AI-powered personalized learning
+- � Video learning with AI assistance
+- �️ AI-generated roadmaps
+- 💬 Interactive AI chat interface
+- 📊 Real-time progress tracking
+- 🎯 Adaptive learning paths
 
 <div align="center">
 
-[![View Project](https://img.shields.io/badge/View_Project-22b4b7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhayclasher)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6C37?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/abhayclasher)
+[![View Project](https://img.shields.io/badge/View_Project-22b4b7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhayclasher/StudySync-AI)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6C37?style=for-the-badge&logo=google-chrome&logoColor=white)](https://studysync-ai.vercel.app)
 
 </div>
 
@@ -300,25 +302,27 @@ HTML/CSS • Particles.js
 
 </div>
 
-Connecting blood donors with those in need through an intuitive platform with real-time availability tracking and emergency notifications.
+Connecting blood donors with recipients instantly. Save lives, one drop at a time through a zero-friction, community-first platform.
 
 **Tech Stack:**
 ```
-Next.js • TypeScript • Firebase
-Tailwind CSS • Google Maps API
+Next.js 16 • TypeScript • React 18
+TailwindCSS 4 • Firebase Firestore
+Radix UI • Vercel
 ```
 
 **Key Features:**
-- 🗺️ Location-based donor search
-- 📱 Real-time push notifications
-- 🔐 Secure authentication system
-- 📊 Donation history & analytics
-- 🚨 Emergency request system
+- � Zero friction - No account required
+- ⚡ Real-time Firebase updates
+- �️ Location-based filtering
+- � Mobile-first responsive design
+- 🌙 Elegant dark mode theme
+- ☎️ One-click direct contact
 
 <div align="center">
 
-[![View Project](https://img.shields.io/badge/View_Project-22b4b7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhayclasher)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6C37?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/abhayclasher)
+[![View Project](https://img.shields.io/badge/View_Project-22b4b7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhayclasher/BloodNearMe)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6C37?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bloodnearme.vercel.app)
 
 </div>
 
@@ -329,31 +333,33 @@ Tailwind CSS • Google Maps API
 
 <div align="center">
 
-### 🌐 Personal Portfolio
+### � Clasher's Den
 
-**Modern Developer Portfolio**
+**Multipurpose Discord Bot**
 
 </div>
 
-A sleek, responsive portfolio showcasing projects and skills with smooth animations, dark mode, and modern design principles.
+A feature-rich Discord bot with a modern, animated landing page. Built with vanilla JavaScript featuring particle effects and real-time statistics.
 
 **Tech Stack:**
 ```
-React • Next.js • Framer Motion
-Tailwind CSS • Three.js
+HTML5 • CSS3 • JavaScript (jQuery)
+Particles.js • AOS.js • Typed.js
+Statcord API • Font Awesome
 ```
 
 **Key Features:**
-- ✨ Smooth page transitions
-- 🎨 Modern glassmorphism UI
+- 🎮 Multi-purpose bot functionality
+- 📊 Real-time live statistics
+- ✨ Interactive particle effects
+- 🎭 Smooth scroll animations
 - 📱 Fully responsive design
-- ⚡ Optimized performance (98+ Lighthouse)
-- 🌙 Dark/Light mode toggle
+- 🎪 Auto-typing text effects
 
 <div align="center">
 
-[![View Project](https://img.shields.io/badge/View_Project-22b4b7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhayclasher)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6C37?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/abhayclasher)
+[![View Project](https://img.shields.io/badge/View_Project-22b4b7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhayclasher/Clasher-s-Den)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6C37?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhayclasher.github.io/Clasher-s-Den)
 
 </div>
 
