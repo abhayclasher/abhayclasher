@@ -8,7 +8,7 @@
 
 <!-- Animated Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-21-blueviolet?style=for-the-badge&logo=user&logoColor=white" />
+  <img src="https://img.shields.io/badge/Age-22-blueviolet?style=for-the-badge&logo=user&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-success?style=for-the-badge&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-blue?style=for-the-badge&logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=success" />
