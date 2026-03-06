@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Abhay%20Kumar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20MLSA%20%7C%20GCP&descSize=20&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Abhay%20Kumar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20Open%20to%20Work&descSize=20&descAlignY=55" />
 
 <!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=22B4B7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+Problem+Solver;%F0%9F%A4%96+MLSA+%7C+Google+Cloud+Certified;%F0%9F%92%BB+Building+Scalable+%26+Innovative+Solutions;%F0%9F%92%BC+Actively+Seeking+Opportunities!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=22B4B7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+Problem+Solver;%F0%9F%A4%96+Discord+Bot+Architect+%7C+Cloud+Expert;%F0%9F%92%BB+Building+Scalable+%26+Innovative+Solutions;%F0%9F%92%BC+Actively+Seeking+Opportunities!" alt="Typing SVG" />
 
 <!-- Animated Badges -->
 <p align="center">
@@ -14,13 +14,7 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=success" />
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhayclasher&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayclasher&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages" />
-</p>
-
-<!-- Snake Animation -->
+<!-- Animated Snake eating contributions -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhayclasher/abhayclasher/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhayclasher/abhayclasher/output/github-contribution-grid-snake.svg">
@@ -56,13 +50,14 @@
 ### 🚀 Experience
 - 🌐 Building scalable web applications
 - 🤖 Discord bot development & automation
-- ☁️ Cloud infrastructure & deployment (GCP)
+- ☁️ Cloud infrastructure & deployment
 - 🗄️ Database design & optimization
 - ⚡ Performance tuning & optimization
 
 ### 🎯 Currently Learning
 - 📘 Advanced TypeScript patterns
 - 🏗️ Microservices architecture
+- ☁️ AWS cloud solutions architect
 - 🎨 System design & scalability
 - 🔐 DevSecOps practices
 
@@ -89,40 +84,42 @@
 </tr>
 </table>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+</div>
+
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Featured Projects
+<div align="center">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Professional Highlights
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Top Projects
-
-| Project | Description | Stars |
-|:---|:---|:---:|
-| [StudySync AI](https://github.com/abhayclasher/StudySync-AI) | AI-Powered Learning Platform | ⭐ |
-| [BloodNearMe](https://github.com/abhayclasher/BloodNearMe) | Blood Donation Platform | ⭐ |
-| [internships-india](https://github.com/abhayclasher/internships-india) | Curated internship opportunities for students in India | ⭐ |
-
-### 🏆 Achievements
-- 🏅 Google Cloud Certified
-- 🏅 Microsoft Learn Student Ambassador
-- 🏅 Multiple Hackathon Winner
+### 🎯 Core Competencies
+- ✅ Full-stack web development (MERN/MEAN)
+- ✅ RESTful API design & GraphQL
+- ✅ Database architecture & optimization
+- ✅ Cloud deployment & DevOps (CI/CD)
+- ✅ Bot development & automation
+- ✅ Agile/Scrum methodologies
+- ✅ Test-driven development (TDD)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔧 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+### 🌟 Key Strengths
+- 🚀 Fast learner & adaptive
+- 🧩 Problem-solving mindset
+- 📊 Data-driven decision making
+- 🤝 Excellent team player
+- 💬 Strong communication skills
+- ⏰ Effective time management
+- 🎯 Result-oriented approach
 
 </td>
 </tr>
