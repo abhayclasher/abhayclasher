@@ -219,35 +219,6 @@
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Achievements
-
-</div>
-
-<div align="center">
-
-### 🏆 Contribution Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayclasher&theme=radical&hide_border=true&background=0D1117&ring=22b4b7&fire=22b4b7&currStreakLabel=22b4b7&sideLabels=22b4b7&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=22b4b7" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=abhayclasher&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22b4b7&icon_color=22b4b7&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%" />
-
-### 📊 Contribution Heatmap
-
-<img src="https://ghchart.rshah.org/22b4b7/abhayclasher" alt="Contribution Graph" width="98%" />
-
-### 🎯 Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhayclasher&theme=radical" width="98%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhayclasher&theme=radical" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhayclasher&theme=radical" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhayclasher&theme=radical" width="32%" />
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
-
 ---
 
 <div align="center">
