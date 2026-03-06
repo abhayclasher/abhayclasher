@@ -298,6 +298,23 @@ Radix UI • Vercel
 </div>
 
 </td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 📋 Internships India
+
+**Curated Internships for Students**
+
+</div>
+
+69+ internships across Biotech, CS, Life Sciences, Pharma, Agriculture. Auto-updates daily.
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/View_Project-22b4b7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhayclasher/internships-india)
+
+</div>
 </tr>
 <tr>
 <td width="50%" valign="top">
