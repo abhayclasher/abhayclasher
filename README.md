@@ -417,37 +417,6 @@ Check out my other projects including web apps, automation scripts, CLI tools, a
 
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"> 📋 Internships India
-
-</div>
-
-<div align="center">
-
-**Curated Internships for Students Across India**
-
-69+ internship opportunities in Biotech, CS, Life Sciences, Pharma, and Agriculture. Auto-updated daily.
-
-<br/>
-
-**Covering:**
-- 💻 Software Development
-- 🌐 Web & Mobile Development  
-- ☁️ Cloud & DevOps
-- 🤖 Data Science & AI
-- 🔬 Biotech & Life Sciences
-- 🌾 Agriculture & Sustainability
-
-<br/>
-
-[![View Project](https://img.shields.io/badge/View_Internships-22b4b7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhayclasher/internships-india)
-[![Last Updated](https://img.shields.io/badge/Auto--Updated_Daily-success?style=for-the-badge)](https://github.com/abhayclasher/internships-india)
-
-</div>
-
----
-
-<div align="center">
-
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Open to Opportunities
 
 </div>
