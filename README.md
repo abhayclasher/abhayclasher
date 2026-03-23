@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Abhay%20Kumar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20Open%20to%20Work&descSize=20&descAlignY=55" />
 
 <!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=22B4B7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+Problem+Solver;%F0%9F%A4%96+Discord+Bot+Architect+%7C+Cloud+Expert;%F0%9F%92%BB+Building+Scalable+%26+Innovative+Solutions;%F0%9F%92%BC+Actively+Seeking+Opportunities!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=22B4B7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+Problem+Solver;%F0%9F%A4%96+GCP+Certified+%7C+Cloud+Professional;%F0%9F%92%BB+Building+Scalable+%26+Innovative+Solutions;%F0%9F%92%BC+Actively+Seeking+Opportunities!" alt="Typing SVG" />
 
 <!-- Animated Badges -->
 <p align="center">
